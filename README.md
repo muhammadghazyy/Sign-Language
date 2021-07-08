@@ -1,2 +1,2 @@
 # Sign-Language
-MNIST Sign Language Detector
+MNIST Sign Language Detector using tensorflow
